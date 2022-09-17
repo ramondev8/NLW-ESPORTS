@@ -4,7 +4,7 @@
 
 Projeto construído do evento NLW (Next Level Week) da Rocketseat.
 
-[ 🔗 Clique aqui para acessar](https://ramondev8.github.io.nlw-esports-explorer)
+[ 🔗 Clique aqui para acessar](https://ramondev8.github.io/nlw-esports-explorer/)
 
 ## 🛠 Tecnologias
 
